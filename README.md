@@ -1,5 +1,5 @@
-                    ### Hi👋, I'm Harsh Rajani
-                  ## A passionate engineering student
+### Hi👋, I'm Harsh Rajani 
+## A passionate engineering student
 
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning Full-Stack Web Development
